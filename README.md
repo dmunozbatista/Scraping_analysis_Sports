@@ -10,7 +10,7 @@ We have to clean all the data and also create new variables to do the desired an
 
 ## Plots
 
-la_liga_forwards.py file has the code to do two different plots to show that Lamine Yamal (Barcelona player) has an outstanding performance and even more considering he is only 16 years old. I have further analysis comparing him to past young stars and his current stats agains his teammates. If you want to see the code please reach out. I did the plots using matplotlib and seaborn
+la_liga_forwards.py file has the code to do two different plots to show that Lamine Yamal (Barcelona player) has an outstanding performance and even more considering he is only 16 years old. I have further analysis comparing him to past young stars and his current stats agains his teammates. If you want to see the code please reach out. I did the plots using matplotlib and seaborn. Also, all the plots are in the directory Lamine_Yamal
 
 ## Intuition
 
