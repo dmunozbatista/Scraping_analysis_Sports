@@ -1,0 +1,12 @@
+[project]
+name = "football-data-web"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+]
